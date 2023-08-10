@@ -1,0 +1,2 @@
+jna .so = .dll
+
